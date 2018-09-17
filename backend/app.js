@@ -9,6 +9,11 @@ app.use((req, res, next) => {
   'GET, POST, PATCH, DELETE, OPTIONS');
   next();
 });
+
+app.post('/api/posts', (req, res, next) => {
+  console.log();
+});
+
 app.use('/api/posts', (req, res, next) => {
   const posts = [
     {
