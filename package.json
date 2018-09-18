@@ -24,12 +24,9 @@
     "@angular/router": "^6.1.0",
     "body-parser": "^1.18.3",
     "core-js": "^2.5.4",
-<<<<<<< HEAD
     "mongoose": "^5.2.15",
-=======
     "express": "^4.16.3",
     "http-server": "^0.11.1",
->>>>>>> e44a6b414cba433cf1789ff4e913ebf284393f93
     "rxjs": "~6.2.0",
     "zone.js": "~0.8.26"
   },
